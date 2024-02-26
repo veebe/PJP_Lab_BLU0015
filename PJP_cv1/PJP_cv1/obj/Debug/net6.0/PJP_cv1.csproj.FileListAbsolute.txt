@@ -1,0 +1,15 @@
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\bin\Debug\net6.0\PJP_cv1.exe
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\bin\Debug\net6.0\PJP_cv1.deps.json
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\bin\Debug\net6.0\PJP_cv1.runtimeconfig.json
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\bin\Debug\net6.0\PJP_cv1.dll
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\bin\Debug\net6.0\PJP_cv1.pdb
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.csproj.AssemblyReference.cache
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.AssemblyInfoInputs.cache
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.AssemblyInfo.cs
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.csproj.CoreCompileInputs.cache
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.dll
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\refint\PJP_cv1.dll
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.pdb
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\PJP_cv1.genruntimeconfig.cache
+C:\Users\bluna\source\repos\PJP_cv1\PJP_cv1\obj\Debug\net6.0\ref\PJP_cv1.dll
